@@ -1,6 +1,6 @@
 
-#ifndef _LowPassFilter_hpp_
-#define _LowPassFilter_hpp_
+#ifndef _LOWPASSFILTER_H_
+#define _LOWPASSFILTER_H_
 
 #include <cmath>
 
@@ -20,4 +20,4 @@ private:
 	float ePow;
 };
 
-#endif //_LowPassFilter_hpp_
+#endif //_LOWPASSFILTER_H_

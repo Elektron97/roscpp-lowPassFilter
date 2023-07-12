@@ -1,5 +1,5 @@
 
-#include "roscpp_lowpass_filter/LowPassFilter.hpp"
+#include "roscpp_lowpass_filter/LowPassFilter.h"
 
 #define ERROR_CHECK (true)
 
